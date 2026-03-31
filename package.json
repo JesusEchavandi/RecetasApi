@@ -1,0 +1,14 @@
+{
+  "name": "recetas-peruanas-api",
+  "version": "1.0.0",
+  "description": "API serverless de recetas peruanas lista para Vercel",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node servidor-local.js",
+    "start": "node servidor-local.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

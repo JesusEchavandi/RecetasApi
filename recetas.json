@@ -1,0 +1,1286 @@
+[
+  {
+    "id": 1,
+    "titulo": "Ceviche Clásico",
+    "descripcion": "El ceviche es uno de los platos bandera del Perú y resalta por su frescura y acidez equilibrada. Se prepara con pescado del día, limón, ají y cebolla para un resultado ligero y vibrante.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,ceviche",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "500 g de pescado fresco en cubos",
+      "Jugo de 10 limones",
+      "1 cebolla roja en pluma",
+      "1 ají limo picado",
+      "2 cucharadas de cilantro picado",
+      "Sal al gusto",
+      "Pimienta al gusto"
+    ],
+    "pasos": [
+      "Lava el pescado y córtalo en cubos uniformes.",
+      "Sazona con sal y pimienta, luego agrega el ají limo.",
+      "Incorpora el jugo de limón y deja reposar 8 a 10 minutos.",
+      "Añade la cebolla roja y el cilantro picado.",
+      "Mezcla suavemente y sirve de inmediato bien frío."
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Causa Limeña de Pollo",
+    "descripcion": "La causa limeña combina papa amarilla y ají amarillo con un relleno cremoso. Es una entrada fría muy popular en celebraciones y almuerzos familiares.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,causa",
+    "tiempoPreparacion": "45 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "1 kg de papa amarilla",
+      "3 cucharadas de pasta de ají amarillo",
+      "Jugo de 4 limones",
+      "2 pechugas de pollo cocidas y deshilachadas",
+      "1/2 taza de mayonesa",
+      "1 palta en láminas",
+      "Sal al gusto",
+      "Aceite vegetal"
+    ],
+    "pasos": [
+      "Hierve las papas hasta que estén suaves y pélalas.",
+      "Prensa las papas y mezcla con ají amarillo, limón, sal y un poco de aceite.",
+      "Combina el pollo deshilachado con mayonesa y ajusta sal.",
+      "En un molde coloca una capa de masa de papa, luego palta y relleno de pollo.",
+      "Cubre con otra capa de papa, enfría 20 minutos y desmolda para servir."
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Papa a la Huancaína",
+    "descripcion": "Esta entrada clásica destaca por su salsa cremosa de ají amarillo y queso fresco. Suele servirse fría sobre papas cocidas con huevo y aceitunas.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,huancaina",
+    "tiempoPreparacion": "25 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "6 papas blancas medianas",
+      "200 g de queso fresco",
+      "3 cucharadas de pasta de ají amarillo",
+      "1/2 taza de leche evaporada",
+      "4 galletas de soda",
+      "2 huevos cocidos",
+      "Aceitunas negras",
+      "Sal al gusto"
+    ],
+    "pasos": [
+      "Cocina las papas con cáscara hasta que estén tiernas.",
+      "Licúa queso, ají amarillo, leche y galletas hasta obtener una crema espesa.",
+      "Rectifica sal y reserva la salsa.",
+      "Pela y corta las papas en rodajas gruesas.",
+      "Sirve las papas bañadas con salsa y decora con huevo y aceitunas."
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Ocopa Arequipeña",
+    "descripcion": "La ocopa es una variación arequipeña de salsa cremosa con huacatay y maní. Tiene un sabor profundo y un color verde característico.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,ocopa",
+    "tiempoPreparacion": "35 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "6 papas cocidas",
+      "150 g de queso fresco",
+      "1/2 taza de maní tostado",
+      "1/2 taza de leche evaporada",
+      "2 cucharadas de pasta de ají amarillo",
+      "1/2 taza de hojas de huacatay",
+      "4 galletas de soda",
+      "Sal al gusto"
+    ],
+    "pasos": [
+      "Sancocha las papas y déjalas enfriar.",
+      "Licúa el queso con maní, leche, ají, huacatay y galletas.",
+      "Procesa hasta obtener una salsa cremosa y homogénea.",
+      "Ajusta la sal y la consistencia con un poco de leche.",
+      "Sirve sobre papas en rodajas y acompaña con huevo cocido."
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Tiradito de Ají Amarillo",
+    "descripcion": "El tiradito combina láminas de pescado crudo con una salsa intensa de ají amarillo. No se marina tanto tiempo como el ceviche, por lo que conserva textura firme.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,tiradito",
+    "tiempoPreparacion": "20 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "400 g de filete de pescado fresco",
+      "Jugo de 6 limones",
+      "2 cucharadas de pasta de ají amarillo",
+      "1 diente de ajo pequeño",
+      "2 cucharadas de fondo de pescado",
+      "Sal al gusto",
+      "1 cucharada de cilantro picado"
+    ],
+    "pasos": [
+      "Corta el pescado en láminas delgadas y colócalo frío en un plato.",
+      "Licúa jugo de limón, ají amarillo, ajo, fondo y sal.",
+      "Prueba la salsa y ajusta acidez y sal.",
+      "Baña el pescado con la salsa justo antes de servir.",
+      "Termina con cilantro picado y acompaña con camote cocido."
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Leche de Tigre Tradicional",
+    "descripcion": "La leche de tigre es un concentrado cítrico y picante derivado del ceviche. Se sirve como entrada en vaso y es muy apreciada por su sabor intenso.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,leche-de-tigre",
+    "tiempoPreparacion": "15 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "200 g de recortes de pescado fresco",
+      "Jugo de 8 limones",
+      "1/4 de cebolla roja",
+      "1 ají limo",
+      "1 diente de ajo",
+      "1 rama de apio",
+      "1 cucharada de cilantro",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Coloca en licuadora pescado, cebolla, ají, ajo, apio y cilantro.",
+      "Agrega jugo de limón, sal y pimienta.",
+      "Licúa pocos segundos para mantener sabor fresco.",
+      "Cuela la mezcla y rectifica sazón.",
+      "Sirve bien fría en vasos pequeños."
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Anticuchos de Corazón",
+    "descripcion": "Los anticuchos son brochetas tradicionales de corazón de res marinadas en ají panca. Se cocinan a la parrilla y se sirven con papa y choclo.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,anticuchos",
+    "tiempoPreparacion": "60 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "1 kg de corazón de res",
+      "3 cucharadas de pasta de ají panca",
+      "1 cucharada de ajo molido",
+      "1/4 taza de vinagre tinto",
+      "1 cucharadita de comino",
+      "Sal y pimienta",
+      "Palitos de brocheta"
+    ],
+    "pasos": [
+      "Limpia el corazón y córtalo en cubos medianos.",
+      "Mezcla ají panca, ajo, vinagre, comino, sal y pimienta.",
+      "Marina la carne por al menos 2 horas en refrigeración.",
+      "Ensarta en brochetas y asa a fuego fuerte.",
+      "Barniza con la marinada durante la cocción y sirve caliente."
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Choritos a la Chalaca",
+    "descripcion": "Esta entrada marina combina choros cocidos con una salsa fresca de cebolla, tomate y maíz. Es ligera, colorida y muy popular en la costa peruana.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,mussels",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "1 kg de choros limpios",
+      "1 cebolla roja picada en cubos",
+      "1 tomate picado en cubos",
+      "1/2 taza de choclo desgranado cocido",
+      "Jugo de 3 limones",
+      "1 ají amarillo picado",
+      "2 cucharadas de cilantro",
+      "Sal al gusto"
+    ],
+    "pasos": [
+      "Hierve los choros hasta que abran y retira una concha.",
+      "Mezcla cebolla, tomate, choclo, ají, cilantro y limón.",
+      "Sazona la mezcla con sal.",
+      "Coloca una cucharada de salsa sobre cada choro.",
+      "Sirve de inmediato como entrada fría."
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "Tamal Criollo",
+    "descripcion": "El tamal criollo peruano se prepara con masa de maíz sazonada y relleno de carne. Es ideal para desayuno o entrada acompañado de salsa criolla.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,tamal",
+    "tiempoPreparacion": "90 minutos",
+    "porciones": 8,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "1 kg de harina de maíz para tamal",
+      "200 g de manteca vegetal",
+      "500 g de carne de cerdo en trozos",
+      "3 cucharadas de pasta de ají panca",
+      "1 cebolla picada",
+      "Hojas de plátano",
+      "Aceitunas negras",
+      "Sal y comino"
+    ],
+    "pasos": [
+      "Sofríe cebolla con ají panca y sazona con sal y comino.",
+      "Añade la carne y cocina hasta dorar ligeramente.",
+      "Mezcla harina de maíz con manteca y caldo hasta formar masa suave.",
+      "Coloca masa en hojas de plátano, agrega relleno y aceituna.",
+      "Envuelve y amarra los tamales.",
+      "Cocina al vapor por 60 minutos y sirve caliente."
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Solterito Arequipeño",
+    "descripcion": "El solterito es una ensalada tradicional de Arequipa con habas, queso y maíz. Su mezcla de texturas lo convierte en una entrada fresca y completa.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,solterito",
+    "tiempoPreparacion": "25 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "1 taza de habas cocidas",
+      "1 taza de choclo cocido desgranado",
+      "150 g de queso fresco en cubos",
+      "1 tomate picado",
+      "1 cebolla roja en pluma",
+      "1 ají rocoto picado",
+      "2 cucharadas de perejil",
+      "Jugo de 2 limones"
+    ],
+    "pasos": [
+      "Cocina las habas y el choclo hasta que estén tiernos.",
+      "Mezcla en un bol habas, choclo, queso, tomate y cebolla.",
+      "Agrega rocoto y perejil picado.",
+      "Aliña con limón, sal y un chorrito de aceite.",
+      "Integra todo suavemente y sirve frío."
+    ]
+  },
+  {
+    "id": 11,
+    "titulo": "Ensalada de Pallares Verdes",
+    "descripcion": "Esta ensalada costeña usa pallares cocidos y aliño cítrico para una entrada nutritiva. Es sencilla de preparar y funciona bien como acompañamiento.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,bean-salad",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "2 tazas de pallares verdes cocidos",
+      "1 cebolla roja picada",
+      "1 tomate en cubos",
+      "1 ají amarillo en tiras",
+      "2 cucharadas de cilantro",
+      "Jugo de 2 limones",
+      "2 cucharadas de aceite de oliva"
+    ],
+    "pasos": [
+      "Cocina los pallares hasta que estén suaves y enfría.",
+      "En un bol mezcla pallares, cebolla, tomate y ají.",
+      "Agrega cilantro picado y sazona con sal.",
+      "Incorpora limón y aceite de oliva.",
+      "Refrigera 10 minutos antes de servir."
+    ]
+  },
+  {
+    "id": 12,
+    "titulo": "Yuca a la Huancaína",
+    "descripcion": "La yuca a la huancaína adapta la salsa clásica a una base más firme y dulce. Es una entrada práctica para compartir en reuniones.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,yuca",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "700 g de yuca",
+      "200 g de queso fresco",
+      "3 cucharadas de pasta de ají amarillo",
+      "1/2 taza de leche evaporada",
+      "4 galletas de soda",
+      "1 huevo cocido",
+      "Aceitunas negras"
+    ],
+    "pasos": [
+      "Hierve la yuca en trozos hasta que esté tierna.",
+      "Licúa queso, ají, leche y galletas para la salsa.",
+      "Ajusta sal y reserva.",
+      "Sirve la yuca caliente o tibia en una fuente.",
+      "Baña con salsa huancaína y decora con huevo y aceitunas."
+    ]
+  },
+  {
+    "id": 13,
+    "titulo": "Lomo Saltado",
+    "descripcion": "El lomo saltado fusiona técnica wok con sabores criollos peruanos. Lleva carne de res, cebolla, tomate y se sirve con papas fritas y arroz.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,lomo-saltado",
+    "tiempoPreparacion": "35 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "700 g de lomo de res en tiras",
+      "1 cebolla roja en gajos",
+      "2 tomates en gajos",
+      "2 cucharadas de sillao",
+      "1 cucharada de vinagre tinto",
+      "1 ají amarillo en tiras",
+      "Papas fritas al gusto",
+      "Arroz blanco cocido"
+    ],
+    "pasos": [
+      "Sella la carne en sartén muy caliente con poco aceite.",
+      "Agrega cebolla, tomate y ají amarillo.",
+      "Saltea a fuego alto por 2 minutos.",
+      "Incorpora sillao, vinagre, sal y pimienta.",
+      "Mezcla con papas fritas y sirve con arroz blanco."
+    ]
+  },
+  {
+    "id": 14,
+    "titulo": "Ají de Gallina",
+    "descripcion": "Plato criollo cremoso preparado con gallina deshilachada y salsa de ají amarillo. Su sabor suave y reconfortante lo hace muy popular en todo el país.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,aji-de-gallina",
+    "tiempoPreparacion": "50 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "1 pechuga grande de pollo cocida",
+      "1 cebolla picada",
+      "3 cucharadas de pasta de ají amarillo",
+      "4 rebanadas de pan de molde",
+      "1 taza de leche evaporada",
+      "50 g de nueces molidas",
+      "Queso parmesano rallado",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Deshilacha el pollo cocido y reserva su caldo.",
+      "Sofríe cebolla con ají amarillo hasta perfumar.",
+      "Licúa pan remojado en leche con nueces.",
+      "Añade la mezcla al sofrito y cocina moviendo.",
+      "Incorpora pollo deshilachado y caldo hasta lograr cremosidad.",
+      "Sirve con arroz blanco y papa sancochada."
+    ]
+  },
+  {
+    "id": 15,
+    "titulo": "Arroz con Pollo Peruano",
+    "descripcion": "Este plato combina arroz verde con culantro y presas de pollo doradas. Es un clásico casero con sabor intenso y balanceado.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,arroz-con-pollo",
+    "tiempoPreparacion": "60 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "6 presas de pollo",
+      "3 tazas de arroz",
+      "1 taza de culantro licuado",
+      "1 cebolla picada",
+      "1 taza de arvejas",
+      "1 zanahoria en cubos",
+      "1 pimiento rojo en tiras",
+      "Sal, pimienta y comino"
+    ],
+    "pasos": [
+      "Sazona y dora las presas de pollo en una olla.",
+      "Retira el pollo y sofríe cebolla en la misma olla.",
+      "Añade culantro licuado y cocina unos minutos.",
+      "Incorpora arroz, arvejas, zanahoria y caldo necesario.",
+      "Regresa el pollo, tapa y cocina hasta secar el arroz.",
+      "Decora con pimiento y sirve caliente."
+    ]
+  },
+  {
+    "id": 16,
+    "titulo": "Seco de Res con Frejoles",
+    "descripcion": "El seco de res es un guiso norteño con culantro y chicha de jora. Se acompaña con frejoles para un plato contundente y tradicional.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,seco-de-res",
+    "tiempoPreparacion": "90 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "1 kg de carne de res en trozos",
+      "1 cebolla picada",
+      "3 cucharadas de ají amarillo molido",
+      "1 taza de culantro licuado",
+      "1 taza de chicha de jora",
+      "2 tazas de frejoles cocidos",
+      "Sal, comino y pimienta"
+    ],
+    "pasos": [
+      "Sella la carne y retira.",
+      "Sofríe cebolla y ají amarillo hasta que tome color.",
+      "Agrega culantro licuado y cocina 5 minutos.",
+      "Incorpora carne, chicha de jora y caldo.",
+      "Cocina a fuego bajo hasta que la carne esté suave.",
+      "Sirve junto con frejoles y arroz blanco."
+    ]
+  },
+  {
+    "id": 17,
+    "titulo": "Carapulcra Chincha",
+    "descripcion": "La carapulcra es un guiso antiguo hecho con papa seca y carne de cerdo. Tiene sabor profundo gracias al ají panca y maní molido.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,carapulcra",
+    "tiempoPreparacion": "80 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "500 g de papa seca",
+      "700 g de cerdo en trozos",
+      "1 cebolla picada",
+      "3 cucharadas de ají panca molido",
+      "1/2 taza de maní molido",
+      "2 dientes de ajo",
+      "Caldo de pollo",
+      "Sal y comino"
+    ],
+    "pasos": [
+      "Hidrata y enjuaga la papa seca en agua tibia.",
+      "Dora el cerdo y reserva.",
+      "Haz un aderezo con cebolla, ajo y ají panca.",
+      "Agrega la papa seca y mezcla bien.",
+      "Incorpora caldo y cocina hasta que la papa espese.",
+      "Añade cerdo y maní molido, cocina 15 minutos más."
+    ]
+  },
+  {
+    "id": 18,
+    "titulo": "Tacu Tacu con Bistec",
+    "descripcion": "El tacu tacu aprovecha arroz y frejoles para formar una tortilla dorada por fuera. Se sirve con bistec para un plato completo y sabroso.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,tacu-tacu",
+    "tiempoPreparacion": "40 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "2 tazas de arroz cocido",
+      "2 tazas de frejoles cocidos",
+      "1 cebolla picada",
+      "1 cucharada de ají amarillo",
+      "4 bistecs de res",
+      "Aceite vegetal",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Sofríe cebolla con ají amarillo y mezcla con los frejoles.",
+      "Incorpora el arroz y forma una masa.",
+      "En sartén caliente dora porciones como tortillas gruesas.",
+      "Cocina los bistecs con sal y pimienta.",
+      "Sirve cada tacu tacu con un bistec encima."
+    ]
+  },
+  {
+    "id": 19,
+    "titulo": "Tallarín Saltado Criollo",
+    "descripcion": "El tallarín saltado mezcla pasta con técnica de salteado y sazón peruana. Es rápido de preparar y muy popular en menú casero.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,tallarin-saltado",
+    "tiempoPreparacion": "35 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "400 g de tallarín",
+      "500 g de pollo en tiras",
+      "1 cebolla roja en gajos",
+      "2 tomates en gajos",
+      "2 cucharadas de sillao",
+      "1 cucharada de vinagre",
+      "Cebolla china picada"
+    ],
+    "pasos": [
+      "Cocina el tallarín al dente y reserva.",
+      "Dora el pollo en wok a fuego alto.",
+      "Añade cebolla y tomate, saltea brevemente.",
+      "Incorpora sillao, vinagre y sazona.",
+      "Agrega la pasta, mezcla bien y termina con cebolla china."
+    ]
+  },
+  {
+    "id": 20,
+    "titulo": "Cau Cau Limeño",
+    "descripcion": "El cau cau es un guiso de mondongo con papa y hierbabuena. Su sabor casero y textura suave lo hacen muy tradicional en Lima.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,cau-cau",
+    "tiempoPreparacion": "70 minutos",
+    "porciones": 5,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "700 g de mondongo cocido",
+      "4 papas en cubos",
+      "1 cebolla picada",
+      "2 cucharadas de ají amarillo",
+      "1 cucharada de ajo molido",
+      "2 cucharadas de hierbabuena picada",
+      "Sal, pimienta y comino"
+    ],
+    "pasos": [
+      "Corta el mondongo cocido en cubos pequeños.",
+      "Sofríe cebolla, ajo y ají amarillo.",
+      "Añade mondongo y mezcla para impregnar sabores.",
+      "Incorpora papa y caldo, cocina hasta que la papa ablande.",
+      "Agrega hierbabuena al final y rectifica sal.",
+      "Sirve con arroz blanco."
+    ]
+  },
+  {
+    "id": 21,
+    "titulo": "Estofado de Pollo",
+    "descripcion": "Plato familiar de pollo cocido en salsa de tomate con verduras y vino. Tiene sabor suave y va bien con arroz o papas.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,chicken-stew",
+    "tiempoPreparacion": "55 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "6 presas de pollo",
+      "1 cebolla picada",
+      "2 tomates licuados",
+      "1 zanahoria en rodajas",
+      "1 taza de arvejas",
+      "1/4 taza de vino tinto",
+      "2 papas amarillas en mitades",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Dora las presas de pollo y reserva.",
+      "Sofríe cebolla y añade tomate licuado.",
+      "Incorpora vino, sal y pimienta.",
+      "Regresa el pollo junto con zanahoria y arvejas.",
+      "Agrega papas y cocina a fuego medio hasta espesar.",
+      "Sirve caliente con arroz."
+    ]
+  },
+  {
+    "id": 22,
+    "titulo": "Arroz Chaufa Peruano",
+    "descripcion": "El arroz chaufa es la versión peruana del arroz frito con sillao y jengibre. Es versátil y puede prepararse con pollo, carne o mariscos.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,arroz-chaufa",
+    "tiempoPreparacion": "25 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "3 tazas de arroz cocido frío",
+      "300 g de pollo en cubos",
+      "2 huevos",
+      "3 cucharadas de sillao",
+      "1 cucharadita de kion rallado",
+      "2 tallos de cebolla china",
+      "Aceite vegetal",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Haz tortilla con los huevos, córtala en tiras y reserva.",
+      "Saltea el pollo con kion en wok caliente.",
+      "Agrega el arroz y mezcla a fuego alto.",
+      "Incorpora sillao, sal, pimienta y cebolla china.",
+      "Añade la tortilla en tiras, mezcla y sirve."
+    ]
+  },
+  {
+    "id": 23,
+    "titulo": "Chupe de Camarones",
+    "descripcion": "Sopa espesa arequipeña con camarones, leche y queso, de sabor profundo y reconfortante. Es un plato emblemático del sur peruano.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,shrimp-soup",
+    "tiempoPreparacion": "70 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "1 kg de camarones",
+      "1 cebolla picada",
+      "2 cucharadas de ají panca",
+      "4 papas amarillas",
+      "1/2 taza de arroz",
+      "1 taza de leche evaporada",
+      "150 g de queso fresco",
+      "2 huevos"
+    ],
+    "pasos": [
+      "Limpia camarones y prepara un caldo con las cabezas.",
+      "Sofríe cebolla con ají panca.",
+      "Añade caldo, papas y arroz; cocina hasta que ablanden.",
+      "Incorpora camarones y cocina pocos minutos.",
+      "Agrega leche y queso en cubos.",
+      "Rompe los huevos al final y deja cuajar antes de servir."
+    ]
+  },
+  {
+    "id": 24,
+    "titulo": "Parihuela de Mariscos",
+    "descripcion": "La parihuela es una sopa marina intensa preparada con varios pescados y mariscos. Es ideal para días fríos y reuniones familiares.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,seafood-soup",
+    "tiempoPreparacion": "65 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "500 g de pescado en trozos",
+      "300 g de calamar en aros",
+      "300 g de mejillones",
+      "300 g de camarones",
+      "1 cebolla picada",
+      "2 cucharadas de ají panca",
+      "1 tomate picado",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Prepara un caldo base con espinas de pescado.",
+      "Sofríe cebolla, tomate y ají panca.",
+      "Incorpora el caldo y hierve 10 minutos.",
+      "Agrega pescado y luego los mariscos según tiempo de cocción.",
+      "Sazona con sal y pimienta.",
+      "Sirve caliente con limón."
+    ]
+  },
+  {
+    "id": 25,
+    "titulo": "Pescado a lo Macho",
+    "descripcion": "Plato costeño con filete de pescado cubierto por salsa picante de mariscos. La mezcla de texturas y ajíes lo hace muy apreciado.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,pescado",
+    "tiempoPreparacion": "45 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "4 filetes de pescado blanco",
+      "300 g de mixtura de mariscos",
+      "1 cebolla en tiras",
+      "2 cucharadas de ají panca",
+      "1 cucharada de ají amarillo",
+      "1 tomate picado",
+      "1/2 taza de caldo de pescado",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Sazona y dora los filetes de pescado por ambos lados.",
+      "En otra sartén prepara aderezo con cebolla, tomate y ajíes.",
+      "Agrega mariscos y saltea brevemente.",
+      "Incorpora caldo y deja reducir para formar salsa.",
+      "Baña los filetes con la salsa y sirve con arroz."
+    ]
+  },
+  {
+    "id": 26,
+    "titulo": "Juane de la Selva",
+    "descripcion": "El juane es un plato amazónico envuelto en hoja de bijao y cocido al vapor. Suele llevar arroz sazonado, pollo y huevo cocido.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,juane",
+    "tiempoPreparacion": "90 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "3 tazas de arroz",
+      "6 presas pequeñas de pollo",
+      "6 huevos cocidos",
+      "1 cebolla picada",
+      "2 cucharadas de ají amarillo",
+      "Hojas de bijao",
+      "2 cucharadas de culantro picado",
+      "Sal y comino"
+    ],
+    "pasos": [
+      "Sofríe cebolla con ají y culantro.",
+      "Agrega arroz y caldo para cocción parcial.",
+      "Sazona y deja enfriar ligeramente.",
+      "En hoja de bijao coloca arroz, pollo y huevo.",
+      "Envuelve y amarra cada juane.",
+      "Cocina al vapor 40 minutos y sirve."
+    ]
+  },
+  {
+    "id": 27,
+    "titulo": "Pachamanca a la Olla",
+    "descripcion": "Versión casera de la pachamanca andina con carnes y tubérculos sazonados con hierbas. Conserva el espíritu comunitario del plato tradicional.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,pachamanca",
+    "tiempoPreparacion": "120 minutos",
+    "porciones": 8,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "500 g de pollo",
+      "500 g de cerdo",
+      "500 g de res",
+      "1 kg de papa",
+      "500 g de camote",
+      "4 cucharadas de pasta de ají panca",
+      "2 cucharadas de huacatay molido",
+      "Sal, comino y ajo"
+    ],
+    "pasos": [
+      "Sazona las carnes con ají panca, huacatay, ajo, sal y comino.",
+      "Deja marinar al menos 1 hora.",
+      "En una olla grande coloca carnes y encima papas y camotes.",
+      "Añade un poco de caldo y tapa bien.",
+      "Cocina a fuego bajo hasta que todo esté tierno.",
+      "Sirve por porciones con choclo y habas."
+    ]
+  },
+  {
+    "id": 28,
+    "titulo": "Adobo Arequipeño",
+    "descripcion": "Guiso de cerdo marinado en chicha de jora y ají panca, típico de Arequipa. Se sirve tradicionalmente los domingos por la mañana.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,adobo",
+    "tiempoPreparacion": "100 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "1 kg de cerdo en trozos",
+      "1 taza de chicha de jora",
+      "3 cucharadas de ají panca molido",
+      "1 cebolla roja en rodajas",
+      "1 cucharada de ajo molido",
+      "1 cucharadita de orégano",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Marina el cerdo con chicha, ají panca, ajo, sal y pimienta.",
+      "Refrigera mínimo 4 horas.",
+      "Lleva todo a una olla y agrega cebolla.",
+      "Cocina a fuego medio hasta que la carne esté suave.",
+      "Ajusta sal y termina con orégano.",
+      "Sirve con pan o arroz."
+    ]
+  },
+  {
+    "id": 29,
+    "titulo": "Chicharrón de Cerdo",
+    "descripcion": "El chicharrón peruano se cocina primero en su jugo y luego se dora para quedar crocante. Es clásico en desayunos con camote y salsa criolla.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,chicharron",
+    "tiempoPreparacion": "70 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "1.2 kg de panceta de cerdo",
+      "1 taza de agua",
+      "2 dientes de ajo",
+      "1 cucharadita de comino",
+      "Sal al gusto",
+      "Camote frito",
+      "Salsa criolla"
+    ],
+    "pasos": [
+      "Corta la panceta en trozos medianos.",
+      "Coloca en olla con agua, sal, ajo y comino.",
+      "Cocina hasta que el agua se evapore.",
+      "Deja que la grasa del cerdo dore los trozos.",
+      "Retira cuando estén crocantes y sirve con camote y criolla."
+    ]
+  },
+  {
+    "id": 30,
+    "titulo": "Cabrito a la Norteña",
+    "descripcion": "Plato norteño de cabrito guisado con culantro y chicha de jora. Es de cocción lenta y gran profundidad de sabor.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,cabrito",
+    "tiempoPreparacion": "110 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "1 kg de cabrito en presas",
+      "1 cebolla picada",
+      "3 cucharadas de ají amarillo",
+      "1 taza de culantro licuado",
+      "1 taza de chicha de jora",
+      "1 cucharada de ajo molido",
+      "Sal, pimienta y comino"
+    ],
+    "pasos": [
+      "Sazona y dora el cabrito en olla.",
+      "Retira y prepara aderezo con cebolla, ajo y ají.",
+      "Incorpora culantro y cocina unos minutos.",
+      "Regresa el cabrito y agrega chicha de jora.",
+      "Cocina tapado a fuego bajo hasta que ablande.",
+      "Sirve con frejoles y arroz blanco."
+    ]
+  },
+  {
+    "id": 31,
+    "titulo": "Patasca Andina",
+    "descripcion": "La patasca es una sopa espesa de mote y carne, ideal para climas fríos. En la sierra peruana se consume como plato fuerte.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,patasca",
+    "tiempoPreparacion": "120 minutos",
+    "porciones": 8,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "500 g de mote pelado",
+      "700 g de carne de res con hueso",
+      "300 g de mondongo",
+      "1 cebolla picada",
+      "2 dientes de ajo",
+      "1 cucharadita de orégano",
+      "Hierbabuena picada",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Remoja el mote desde la noche anterior.",
+      "Hierve carne y mondongo hasta que estén cocidos.",
+      "Agrega mote y cocina largo tiempo hasta abrir el grano.",
+      "Sofríe cebolla y ajo, luego incorpora a la sopa.",
+      "Sazona con sal, pimienta y orégano.",
+      "Sirve con hierbabuena fresca."
+    ]
+  },
+  {
+    "id": 32,
+    "titulo": "Inchicapi de Gallina",
+    "descripcion": "Sopa amazónica cremosa hecha con maní molido, yuca y gallina. Tiene aroma cálido y una textura muy reconfortante.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,amazon-soup",
+    "tiempoPreparacion": "80 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "1 gallina en presas",
+      "500 g de yuca en trozos",
+      "1/2 taza de maní molido",
+      "1 cebolla picada",
+      "1 cucharada de ajo molido",
+      "Culantro picado",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Cocina la gallina en agua con sal hasta ablandar.",
+      "Añade yuca y continúa la cocción.",
+      "Sofríe cebolla con ajo e incorpora al caldo.",
+      "Disuelve maní molido con un poco de caldo y agrega.",
+      "Cocina hasta espesar ligeramente.",
+      "Termina con culantro picado y sirve."
+    ]
+  },
+  {
+    "id": 33,
+    "titulo": "Arroz con Pato",
+    "descripcion": "Plato norteño de arroz verde cocido con culantro y cerveza, acompañado de pato tierno. Es un clásico festivo con sabor intenso.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,arroz-con-pato",
+    "tiempoPreparacion": "100 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "1 pato en presas",
+      "3 tazas de arroz",
+      "1 taza de culantro licuado",
+      "1 cebolla picada",
+      "1 taza de cerveza negra",
+      "1 taza de arvejas",
+      "1 pimiento en tiras",
+      "Sal, pimienta y comino"
+    ],
+    "pasos": [
+      "Sazona y dora las presas de pato.",
+      "Retira y sofríe cebolla en la misma olla.",
+      "Agrega culantro licuado y cocina 5 minutos.",
+      "Incorpora arroz, cerveza y caldo.",
+      "Regresa el pato con arvejas y cocina tapado.",
+      "Decora con pimiento y sirve caliente."
+    ]
+  },
+  {
+    "id": 34,
+    "titulo": "Picante de Cuy",
+    "descripcion": "Plato andino donde el cuy se cocina con ajíes y maní para una salsa espesa. Es una preparación tradicional de fechas especiales.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-food,cuy",
+    "tiempoPreparacion": "90 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "2 cuyes limpios",
+      "1 cebolla picada",
+      "2 cucharadas de ají panca",
+      "1 cucharada de ají amarillo",
+      "1/3 taza de maní molido",
+      "2 papas grandes",
+      "Caldo de verduras",
+      "Sal y comino"
+    ],
+    "pasos": [
+      "Troza el cuy y sazona con sal y comino.",
+      "Dora el cuy en sartén hasta sellar.",
+      "Prepara aderezo con cebolla y ajíes.",
+      "Incorpora el cuy y caldo para cocción.",
+      "Añade maní molido y cocina hasta espesar.",
+      "Sirve con papas sancochadas."
+    ]
+  },
+  {
+    "id": 35,
+    "titulo": "Suspiro a la Limeña",
+    "descripcion": "Postre emblemático de Lima con manjar blanco y merengue al oporto. Es dulce, cremoso y muy aromático.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-dessert,suspiro",
+    "tiempoPreparacion": "40 minutos",
+    "porciones": 8,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "1 lata de leche condensada",
+      "1 lata de leche evaporada",
+      "4 yemas de huevo",
+      "3 claras de huevo",
+      "1 taza de azúcar",
+      "1/2 taza de vino oporto",
+      "Canela en polvo"
+    ],
+    "pasos": [
+      "Cocina leche condensada y evaporada a fuego bajo hasta espesar.",
+      "Retira del fuego y agrega yemas batiendo rápido.",
+      "Distribuye la crema en copas.",
+      "Bate claras con azúcar para formar merengue firme.",
+      "Añade oporto al merengue y mezcla suavemente.",
+      "Cubre las copas y espolvorea canela."
+    ]
+  },
+  {
+    "id": 36,
+    "titulo": "Mazamorra Morada",
+    "descripcion": "Postre tradicional preparado con maíz morado, frutas secas y especias. Su textura espesa y sabor frutal son inconfundibles.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-dessert,mazamorra",
+    "tiempoPreparacion": "55 minutos",
+    "porciones": 8,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "500 g de maíz morado",
+      "2 piñas pequeñas (cáscara)",
+      "2 manzanas en cubos",
+      "1 taza de azúcar",
+      "1 rama de canela",
+      "5 clavos de olor",
+      "1/2 taza de chuño disuelto"
+    ],
+    "pasos": [
+      "Hierve maíz morado con cáscara de piña, canela y clavo.",
+      "Cuela el líquido y regresa a la olla.",
+      "Agrega azúcar y frutas en cubos.",
+      "Incorpora chuño disuelto moviendo constantemente.",
+      "Cocina hasta espesar y sirve tibio o frío."
+    ]
+  },
+  {
+    "id": 37,
+    "titulo": "Arroz con Leche Peruano",
+    "descripcion": "Postre casero muy difundido en el Perú, cremoso y aromático con canela y clavo. Suele servirse junto con mazamorra morada.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-dessert,arroz-con-leche",
+    "tiempoPreparacion": "45 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "1 taza de arroz",
+      "1 lata de leche evaporada",
+      "1 lata de leche condensada",
+      "2 tazas de agua",
+      "1 rama de canela",
+      "3 clavos de olor",
+      "Pasas al gusto"
+    ],
+    "pasos": [
+      "Hierve el arroz con agua, canela y clavo.",
+      "Cuando el arroz esté cocido agrega leche evaporada.",
+      "Incorpora leche condensada y mezcla a fuego bajo.",
+      "Añade pasas y cocina hasta obtener cremosidad.",
+      "Sirve y espolvorea canela molida."
+    ]
+  },
+  {
+    "id": 38,
+    "titulo": "Picarones",
+    "descripcion": "Rosquillas fritas hechas con masa de zapallo y camote, servidas con miel de chancaca. Son un clásico de ferias y noches limeñas.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-dessert,picarones",
+    "tiempoPreparacion": "75 minutos",
+    "porciones": 8,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "300 g de zapallo cocido",
+      "300 g de camote cocido",
+      "500 g de harina",
+      "1 cucharada de levadura seca",
+      "1/2 taza de azúcar",
+      "1 panela de chancaca",
+      "1 rama de canela",
+      "Aceite para freír"
+    ],
+    "pasos": [
+      "Haz puré con zapallo y camote.",
+      "Mezcla con harina, levadura y azúcar hasta formar masa suave.",
+      "Deja fermentar la masa hasta duplicar volumen.",
+      "Forma aros con las manos húmedas y fríe en aceite caliente.",
+      "Prepara miel con chancaca, canela y agua.",
+      "Sirve los picarones bañados con miel."
+    ]
+  },
+  {
+    "id": 39,
+    "titulo": "Ranfañote Limeño",
+    "descripcion": "Postre tradicional de aprovechamiento con pan, miel de chancaca y frutos secos. Tiene historia colonial y un sabor especiado muy particular.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-dessert,traditional",
+    "tiempoPreparacion": "35 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "6 panes franceses del día anterior",
+      "1 panela de chancaca",
+      "1 rama de canela",
+      "2 clavos de olor",
+      "1/2 taza de nueces picadas",
+      "1/2 taza de pasas",
+      "Queso fresco en cubos"
+    ],
+    "pasos": [
+      "Corta el pan en cubos y dóralo en horno o sartén.",
+      "Prepara miel con chancaca, canela y clavo.",
+      "Mezcla el pan dorado con la miel caliente.",
+      "Agrega nueces y pasas.",
+      "Sirve con cubos de queso fresco encima."
+    ]
+  },
+  {
+    "id": 40,
+    "titulo": "Queso Helado Arequipeño",
+    "descripcion": "A pesar del nombre, no lleva queso; es un postre helado de leche y coco con canela. Es muy representativo de Arequipa.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-dessert,queso-helado",
+    "tiempoPreparacion": "40 minutos",
+    "porciones": 8,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "1 litro de leche evaporada",
+      "1 lata de leche condensada",
+      "1/2 taza de coco rallado",
+      "1 rama de canela",
+      "5 clavos de olor",
+      "Canela molida",
+      "Azúcar al gusto"
+    ],
+    "pasos": [
+      "Hierve leche evaporada con canela, clavo y coco.",
+      "Cuela la mezcla y agrega leche condensada.",
+      "Rectifica dulzor con azúcar si es necesario.",
+      "Lleva al congelador en recipiente metálico.",
+      "Raspa cada 40 minutos para formar textura granulada.",
+      "Sirve espolvoreando canela molida."
+    ]
+  },
+  {
+    "id": 41,
+    "titulo": "Turrón de Doña Pepa",
+    "descripcion": "Postre limeño de octubre formado por barras anisadas cubiertas de miel y grageas. Es una preparación festiva con fuerte tradición religiosa.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-dessert,turron",
+    "tiempoPreparacion": "95 minutos",
+    "porciones": 10,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "500 g de harina",
+      "150 g de mantequilla",
+      "2 cucharadas de anís",
+      "1 panela de chancaca",
+      "1 rama de canela",
+      "2 clavos de olor",
+      "Grageas de colores"
+    ],
+    "pasos": [
+      "Prepara masa con harina, mantequilla y agua de anís.",
+      "Forma bastones y hornéalos hasta dorar.",
+      "Haz una miel espesa con chancaca, canela y clavo.",
+      "Arma capas de bastones y vierte miel entre capas.",
+      "Decora la superficie con grageas de colores.",
+      "Deja reposar antes de cortar porciones."
+    ]
+  },
+  {
+    "id": 42,
+    "titulo": "Alfajores Peruanos",
+    "descripcion": "Galletas suaves rellenas con manjar blanco, muy presentes en pastelería peruana. Son ideales para sobremesa o meriendas.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-dessert,alfajores",
+    "tiempoPreparacion": "50 minutos",
+    "porciones": 12,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "300 g de harina",
+      "200 g de maicena",
+      "200 g de mantequilla",
+      "100 g de azúcar impalpable",
+      "2 yemas",
+      "1 cucharadita de vainilla",
+      "Manjar blanco"
+    ],
+    "pasos": [
+      "Bate mantequilla con azúcar hasta cremar.",
+      "Agrega yemas y vainilla.",
+      "Incorpora harina y maicena hasta formar masa.",
+      "Estira, corta círculos y hornea brevemente.",
+      "Une de a dos con manjar blanco y espolvorea azúcar."
+    ]
+  },
+  {
+    "id": 43,
+    "titulo": "Pisco Sour",
+    "descripcion": "Cóctel peruano emblemático preparado con pisco, limón, jarabe y clara de huevo. Tiene equilibrio entre acidez, dulzor y aroma alcohólico.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-drink,pisco-sour",
+    "tiempoPreparacion": "10 minutos",
+    "porciones": 2,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "6 oz de pisco quebranta",
+      "2 oz de jugo de limón",
+      "2 oz de jarabe de goma",
+      "1 clara de huevo",
+      "Hielo",
+      "2 gotas de amargo de angostura"
+    ],
+    "pasos": [
+      "Coloca pisco, limón, jarabe y clara en coctelera.",
+      "Agita sin hielo para emulsionar la clara.",
+      "Añade hielo y vuelve a agitar enérgicamente.",
+      "Cuela en copa fría.",
+      "Termina con gotas de angostura sobre la espuma."
+    ]
+  },
+  {
+    "id": 44,
+    "titulo": "Chicha Morada",
+    "descripcion": "Refresco peruano de maíz morado, frutas y especias, muy consumido en almuerzos. Es una bebida sin alcohol de sabor dulce y especiado.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-drink,chicha-morada",
+    "tiempoPreparacion": "35 minutos",
+    "porciones": 8,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "500 g de maíz morado",
+      "1 piña (cáscara)",
+      "2 manzanas en trozos",
+      "1 rama de canela",
+      "4 clavos de olor",
+      "Azúcar al gusto",
+      "Jugo de 2 limones"
+    ],
+    "pasos": [
+      "Hierve maíz morado con cáscara de piña, canela y clavo.",
+      "Cuela el concentrado y deja enfriar.",
+      "Agrega azúcar al gusto.",
+      "Incorpora jugo de limón justo antes de servir.",
+      "Sirve con hielo."
+    ]
+  },
+  {
+    "id": 45,
+    "titulo": "Emoliente Peruano",
+    "descripcion": "Bebida caliente popular en calles peruanas, preparada con cebada y hierbas medicinales. Se consume especialmente por las noches.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-drink,emoliente",
+    "tiempoPreparacion": "40 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "1/2 taza de cebada tostada",
+      "2 cucharadas de linaza",
+      "1 cucharada de cola de caballo",
+      "1 rama de canela",
+      "2 limones",
+      "Azúcar o miel al gusto"
+    ],
+    "pasos": [
+      "Hierve agua con cebada, linaza y canela.",
+      "Añade cola de caballo y cocina 10 minutos más.",
+      "Cuela la bebida caliente.",
+      "Endulza al gusto con azúcar o miel.",
+      "Sirve con unas gotas de limón."
+    ]
+  },
+  {
+    "id": 46,
+    "titulo": "Chilcano de Pisco",
+    "descripcion": "Cóctel ligero y refrescante hecho con pisco, ginger ale y limón. Es una opción simple para aperitivo peruano.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-drink,chilcano",
+    "tiempoPreparacion": "8 minutos",
+    "porciones": 2,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "4 oz de pisco",
+      "8 oz de ginger ale",
+      "Jugo de 1 limón",
+      "Hielo",
+      "Rodajas de limón",
+      "2 gotas de amargo"
+    ],
+    "pasos": [
+      "Llena vasos altos con hielo.",
+      "Agrega pisco y jugo de limón.",
+      "Completa con ginger ale.",
+      "Mezcla suavemente con cuchara larga.",
+      "Decora con rodaja de limón y amargo."
+    ]
+  },
+  {
+    "id": 47,
+    "titulo": "Cóctel de Algarrobina",
+    "descripcion": "Bebida dulce a base de pisco y jarabe de algarrobina, muy conocida en bares limeños. Tiene textura cremosa y sabor tostado.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-drink,algarrobina",
+    "tiempoPreparacion": "10 minutos",
+    "porciones": 2,
+    "nivelDificultad": "Intermedio",
+    "ingredientes": [
+      "4 oz de pisco",
+      "2 oz de algarrobina",
+      "2 oz de leche evaporada",
+      "1 yema de huevo",
+      "Hielo",
+      "Canela en polvo"
+    ],
+    "pasos": [
+      "Coloca pisco, algarrobina, leche y yema en licuadora.",
+      "Añade hielo y licúa hasta espumar.",
+      "Prueba y ajusta dulzor si deseas.",
+      "Sirve en copas cortas frías.",
+      "Espolvorea canela al final."
+    ]
+  },
+  {
+    "id": 48,
+    "titulo": "Jugo de Camu Camu",
+    "descripcion": "Refresco amazónico de alto contenido de vitamina C, ácido y muy aromático. Se consume frío y endulzado al gusto.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-drink,camu-camu",
+    "tiempoPreparacion": "12 minutos",
+    "porciones": 4,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "1 taza de pulpa de camu camu",
+      "4 tazas de agua fría",
+      "Azúcar al gusto",
+      "Hielo",
+      "Hojas de menta"
+    ],
+    "pasos": [
+      "Licúa la pulpa de camu camu con agua fría.",
+      "Cuela para retirar fibras gruesas.",
+      "Endulza al gusto y mezcla bien.",
+      "Sirve con hielo.",
+      "Decora con hojas de menta."
+    ]
+  },
+  {
+    "id": 49,
+    "titulo": "Masato Amazónico",
+    "descripcion": "Bebida tradicional de la Amazonía preparada a base de yuca cocida y fermentada. Tiene sabor suave y ligeramente ácido.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-drink,masato",
+    "tiempoPreparacion": "36 horas",
+    "porciones": 8,
+    "nivelDificultad": "Difícil",
+    "ingredientes": [
+      "1.5 kg de yuca",
+      "3 litros de agua",
+      "1 taza de azúcar",
+      "Canela al gusto",
+      "Clavo de olor al gusto"
+    ],
+    "pasos": [
+      "Pela y cocina la yuca hasta que esté muy suave.",
+      "Tritura la yuca cocida y mézclala con agua hervida fría.",
+      "Añade azúcar y especias.",
+      "Cubre el recipiente y deja fermentar 24 a 36 horas.",
+      "Cuela y sirve frío."
+    ]
+  },
+  {
+    "id": 50,
+    "titulo": "Refresco de Quinua",
+    "descripcion": "Bebida nutritiva preparada con quinua cocida, fruta y un toque de canela. Es una opción andina saludable para toda la familia.",
+    "imagenUrl": "https://source.unsplash.com/600x400/?peruvian-drink,quinoa",
+    "tiempoPreparacion": "25 minutos",
+    "porciones": 6,
+    "nivelDificultad": "Fácil",
+    "ingredientes": [
+      "1 taza de quinua",
+      "2 litros de agua",
+      "1 manzana picada",
+      "1 rama de canela",
+      "Azúcar o miel al gusto",
+      "Jugo de 1 limón"
+    ],
+    "pasos": [
+      "Lava bien la quinua para retirar saponina.",
+      "Hierve la quinua con agua, manzana y canela.",
+      "Cocina hasta que la quinua reviente.",
+      "Cuela y endulza al gusto.",
+      "Agrega jugo de limón y sirve frío."
+    ]
+  }
+]
